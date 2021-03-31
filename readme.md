@@ -6,6 +6,7 @@ Note :
 2. Untuk part 2 tersedia pada tautan berikut :
    https://github.com/RZID/bitgroup_technical/tree/part_2
 3. Database tersedia pada branch ini (folder database)
+4. Setelah clone part 2, dimohon untuk melakukan update composer dengan cara : `composer install`
 
 Question Endpoint :
 
